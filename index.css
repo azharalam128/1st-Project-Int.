@@ -31,6 +31,7 @@ li a {
     background-color: #F2F2F2;
     text-decoration: none;
     font-size: 32px;
+    color: #000000;
 }
 .nav a:hover{
     background-color: #FFFFFF;
@@ -97,7 +98,7 @@ li a {
 
 .button-p {
     position: absolute;
-    left: 134px;
+    left: 154px;
     right: 23.21%;
     top: 730px;
     bottom: 145px;
