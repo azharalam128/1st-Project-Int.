@@ -1916,3 +1916,330 @@ color: #FFFFFF;
 }
 /* **************** END ***************** */
 
+@media screen and (max-width: 1400px){
+    /* .containers{
+        overflow: hidden;
+    } */
+    .nav li a{
+        font-size: 38px;
+        background: none;
+    }
+    .container .p1{
+        font-size: 3.8rem;
+    }
+    .container1 .p3{
+        font-size: 3.8rem;
+    }
+    .container1 .p4{
+        font-size: 20px;
+    }
+    .container3 h1{
+        font-size: 4rem;
+    }
+    .container3 h2{
+        font-size: 31px;
+    }
+    .c3-p2{
+        font-size: 27px;
+    }
+    .c3-p3{
+        font-size: 27px;
+    }
+    .container5 h1{
+        font-size: 4rem;
+    }
+    .container5 h2{
+        font-size: 31px;
+    }
+    .container5 .s1{
+        font-size: 27px;
+    }
+    .container5 .s2{
+        font-size: 26px;
+    }
+    .container9 h1{
+        font-size: 4rem;
+        justify-content: center;
+    }
+}
+
+@media screen and (max-width: 1200px){
+    .nav li a{
+        font-size: 36px;
+        background: none;
+    }
+    .container .p1{
+        font-size: 2.9rem;
+    }
+    .container .p2{
+        font-size: 2em;
+    }
+    .container1 .p3{
+        font-size: 3rem;
+    }
+    .container1 .p4{
+        font-size: 17px;
+    }
+    .container3 h1{
+        font-size: 3.7rem;
+    }
+    .container3 h2{
+        font-size: 26px;
+    }
+    .c3-p2{
+        font-size: 22px;
+    }
+    .c3-p3{
+        font-size: 22px;
+    }
+    .container5 h1{
+        font-size: 3.7rem;
+    }
+    .container5 h2{
+        font-size: 26px;
+    }
+    .container5 .s1{
+        font-size: 22px;
+    }
+    .container5 .s2{
+        font-size: 21px;
+    }
+    .container9 h1{
+        font-size: 3.7rem;
+        justify-content: center;
+}
+}
+
+@media screen and (max-width: 1000px){
+    .nav li a{
+        font-size: 40px;
+        background: none;
+    }
+    .container .p1{
+        font-size: 3rem;
+    }
+    .container .p2{
+        font-size: 2.2em;
+    }
+    .container1 .p3{
+        font-size: 3rem;
+    }
+    .container1 .p4{
+        font-size: 18px;
+    }
+    .container3 h1{
+        font-size: 3.9rem;
+    }
+    .container3 h2{
+        font-size: 27px;
+    }
+    .c3-p2{
+        font-size: 23px;
+    }
+    .c3-p3{
+        font-size: 23px;
+    }
+    .container5 h1{
+        font-size: 3.9rem;
+    }
+    .container5 h2{
+        font-size: 27px;
+    }
+    .container5 .s1{
+        font-size: 23px;
+    }
+    .container5 .s2{
+        font-size: 22px;
+    }
+    .container9 h1{
+        font-size: 3.9rem;
+        justify-content: center;
+}
+}
+@media screen and (max-width: 800px){
+    .nav li a{
+        font-size: 44px;
+        background: none;
+    }
+    
+    .container .p1{
+        font-size: 4rem;
+    }
+    .container .p2{
+        font-size: 2em;
+    }
+    .container1 .p3{
+        font-size: 3rem;
+    }
+    .container1 .p4{
+        font-size: 24px;
+    }
+    .container3 h1{
+        font-size: 4rem;
+    }
+    .container3 h2{
+        font-size: 27px;
+    }
+    .c3-p2{
+        font-size: 26px;
+    }
+    .c3-p3{
+        font-size: 25px;
+    }
+    .container5 h1{
+        font-size: 4rem;
+    }
+    .container5 h2{
+        font-size: 27px;
+    }
+    .container5 .s1{
+        font-size: 24px;
+    }
+    .container5 .s2{
+        font-size: 24px;
+    }
+    .container9 h1{
+        font-size: 4rem;
+        justify-content: center;
+}
+}
+@media screen and (max-width: 550px){
+    .nav li a{
+        font-size: 47px;
+        background: none;
+    }
+    
+    .container .p1{
+        font-size: 4.1rem;
+    }
+    .container .p2{
+        font-size: 2.2em;
+    }
+    .container1 .p3{
+        font-size: 3.2rem;
+    }
+    .container1 .p4{
+        font-size: 26px;
+    }
+    .container3 h1{
+        font-size: 4.2rem;
+    }
+    .container3 h2{
+        font-size: 29px;
+    }
+    .c3-p2{
+        font-size: 28px;
+    }
+    .c3-p3{
+        font-size: 27px;
+    }
+    .container5 h1{
+        font-size: 4.2rem;
+    }
+    .container5 h2{
+        font-size: 29px;
+    }
+    .container5 .s1{
+        font-size: 26px;
+    }
+    .container5 .s2{
+        font-size: 26px;
+    }
+    .container9 h1{
+        font-size: 4.2rem;
+        justify-content: center;
+}
+}
+@media screen and (max-width: 480px){
+   .nav li a{
+        font-size: 60px;
+        background: none;
+        white-space: nowrap;
+        position: sticky;
+    }
+    .container .p1{
+        font-size: 4.4rem;
+    }
+    .container .p2{
+        font-size: 2.5em;
+    }
+    .container1 .p3{
+        font-size: 3.5rem;
+    }
+    .container1 .p4{
+        font-size: 29px;
+    }
+    .container3 h1{
+        font-size: 4.5rem;
+    }
+    .container3 h2{
+        font-size: 31px;
+    }
+    .c3-p2{
+        font-size: 31px;
+    }
+    .c3-p3{
+        font-size: 31px;
+    }
+    .container5 h1{
+        font-size: 4.5rem;
+    }
+    .container5 h2{
+        font-size: 29px;
+    }
+    .container5 .s1{
+        font-size: 29px;
+    }
+    .container5 .s2{
+        font-size: 28px;
+    }
+    .container9 h1{
+        font-size: 4.5rem;
+        justify-content: center;
+}
+}
+
+@media screen and (max-width: 375px){
+   
+     .container .p1{
+         margin-top: auto;
+         font-size: 4.4rem;
+     }
+     .container .p2{
+         font-size: 2.5em;
+     }
+     .container1 .p3{
+         font-size: 3.5rem;
+     }
+     .container1 .p4{
+         font-size: 29px;
+     }
+     .container3 h1{
+         font-size: 4.5rem;
+     }
+     .container3 h2{
+         font-size: 31px;
+     }
+     .c3-p2{
+         font-size: 31px;
+     }
+     .c3-p3{
+         font-size: 31px;
+     }
+     .container5 h1{
+         font-size: 4.5rem;
+     }
+     .container5 h2{
+         font-size: 29px;
+     }
+     .container5 .s1{
+         font-size: 29px;
+     }
+     .container5 .s2{
+         font-size: 28px;
+     }
+     .container9 h1{
+         font-size: 4.5rem;
+         justify-content: center;
+ }
+ }
